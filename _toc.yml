@@ -1,0 +1,13 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: frontpage
+chapters:
+- file: 0000intro
+- file: 0100timeseries
+- file: 0200something
+- file: 0300something
+- file: 0400something
+- file: 0500something
+- file: 0600something
