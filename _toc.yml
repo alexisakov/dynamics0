@@ -5,7 +5,6 @@ format: jb-book
 root: 00frontpage
 chapters:
 - file: 0000intro
-- file: Untitled.ipynb
 - file: 0100timeseries
 - file: 0200something
 - file: 0300something
